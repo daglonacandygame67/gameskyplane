@@ -17,7 +17,7 @@ SERVER_PORT = 25822
 MC_VERSION = "1.21.1"
 
 # Direct link to the zip that contains the all-in-one mod jar.
-MODS_URL = "https://files.catbox.moe/s7guqw.zip"
+MODS_URL = "https://github.com/daglonacandygame67/gameskyplane/releases/download/v1.0/SkyPlaneSMP-Mods.zip"
 
 # Optional: a link to a tiny JSON file like {"url": "https://.../new.zip"}.
 # If set, the launcher reads it on every start, so you can push mod updates
